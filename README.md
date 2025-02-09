@@ -1,3 +1,2 @@
 # Olá Mundo!
- Primeiro Repositorio versionado
- Estudo feito pelo curso em video
+ Primeiro Repositorio versionado, estudo feito pelo curso em video
